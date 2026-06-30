@@ -1,0 +1,19 @@
+README.md
+  s_57250b83f95860::t_a669f3e8c168fe 180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "c544ec34f3595985fbc03779ead36317c7a473c3",
+  "prompts": {},
+  "sessions": {
+    "s_57250b83f95860": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7c796349-fa80-4af4-a95a-d298224793c2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Juan Escobar <juan.escobar@mercadolibre.cl>"
+    }
+  }
+}
